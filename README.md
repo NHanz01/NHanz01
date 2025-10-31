@@ -1,5 +1,5 @@
 - 👋 Hi! I'm Hanz~
-- 👨‍🎨 Currently a third year student majoring in Bachelor in Computer Science (Graphics & Multimedia Software) with Honours.
+- 👨‍🎨 Fresh graduate majoring in Bachelor in Computer Science (Graphics & Multimedia Software) with Honours.
 - 🌱 I'm not really familiar with GitHub and have only done several university projects here.
 - ✨ My Degree Portfolio: [https://nhanz01.github.io/NFZR_Portfolio/]
 - ✨ My Diploma Portfolio: [https://nfzr-porfolio.my.canva.site/diplomaportfolio]
